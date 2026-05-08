@@ -1,0 +1,12 @@
+Open PowerShell or CMD and run one by one:
+
+1. Show active connections
+netstat -an
+2. Show IP configuration
+ipconfig /all
+3. DNS lookup
+nslookup www.google.com
+4. Trace route
+tracert www.google.com
+
+Wait for completion.
